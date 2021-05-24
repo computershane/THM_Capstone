@@ -9,8 +9,9 @@
 
 `openvpn computershane\(1\).ovpn'
 
-LHOST-10.2.70.52 
-RHSOT-10.10.246.145
+LHOST-`10.2.70.52` 
+
+RHOST-`10.10.246.145`
 
 
 # Scan
