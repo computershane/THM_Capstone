@@ -1,8 +1,8 @@
 # TryHackMe
   https://tryhackme.com/jr/mirolabscapstone
   
-<img src="THM_capstone.png"
-     alt="THM_capstone_icon"
+<img src="THM_capstone1.png"
+     alt="THM_capstone1_icon"
      style="float: left; margin-right: 10px;" />
 
 # Connection
