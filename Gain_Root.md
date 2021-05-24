@@ -44,6 +44,8 @@ Open ports found
 
 `search proftp`
 
+attack box uses version is 1.3.3C
+
 `use exploit/unix/ftp/proftpd_133c_backdoor`
 
 `show options`
