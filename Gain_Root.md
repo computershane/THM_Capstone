@@ -7,7 +7,7 @@
 
 # Connection
 
-`openvpn computershane\(1\).ovpn'
+`openvpn computershane\(1\).ovpn`
 
 LHOST-`10.2.70.52` 
 
@@ -20,7 +20,8 @@ RHOST-`10.10.246.145`
 
 Open ports found 
 
-```21/tcp open  ftp
+```
+21/tcp open  ftp
 22/tcp open  ssh
 80/tcp open  http
 ```
@@ -47,7 +48,7 @@ Open ports found
 
 `show options`
 
-set my RHOSTS to 10.10.246.145
+set my RHOST to 10.10.246.145
 
 set payload 2
 
@@ -59,9 +60,21 @@ failed
 
 `exploit`
 
-control-Z background session then Y
+# Escalate
 
-`run`
+<img src="I_AM_Root.png"
+     alt="I_AM_Root_icon"
+     style="float: left; margin-right: 10px;" />
+     
+I now have Root
+
+Sumbitted Screenshot to Professor in DM in Discord to retrieve flag for THM.
+
+Flag
+
+Answer-`
+
+
 
 
 
